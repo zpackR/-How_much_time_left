@@ -27,7 +27,7 @@ h1 span{
     border-right: 3px solid #61375f;
     white-space: nowrap;
     overflow: hidden;
-    width: 20ch;
+    width: 5ch;
     animation: mark .5s step-end infinite ,write 3s steps(22, end) infinite;
 
 }
