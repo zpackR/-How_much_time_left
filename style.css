@@ -28,7 +28,7 @@ h1 span{
     white-space: nowrap;
     overflow: hidden;
     width: 5ch;
-    animation: mark .5s step-end infinite, write 3s steps(5, end) infinite;
+    animation: mark .5s step-end infinite, write 3s steps(5) infinite;
 
 }
 
