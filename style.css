@@ -28,4 +28,10 @@ h1 span{
     white-space: nowrap;
 
     overflow: hidden;
+
+    animation: mark .5s step-end infinite; 
+@keyframes mark{
+    50%{
+        border-right-color: transparent;
+    }
 }
