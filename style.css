@@ -24,8 +24,7 @@ h1 span{
 }
 
  h1 span{
-    border-radius: 1px;
-    border-right: 3px solid #5c305a;
+    border-right: 3px solid #61375f;
     white-space: nowrap;
 
     overflow: hidden;
