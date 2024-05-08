@@ -22,3 +22,12 @@ h1 span{
     color: var(--red);
     font-size: 50px;
 }
+
+.title {
+    display: block;
+
+    border-right: 16px solid #fff;
+    white-space: nowrap;
+
+    overflow: hidden;
+}
